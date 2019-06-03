@@ -27,3 +27,7 @@ def using_concat(a,b)
 total = a.concat(b)
 return total
 end
+
+def using_insert(array,string)
+
+end
