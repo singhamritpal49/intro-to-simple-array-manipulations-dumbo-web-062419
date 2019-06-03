@@ -29,5 +29,5 @@ return total
 end
 
 def using_insert(array,string)
-
+array.push(string)
 end
