@@ -28,6 +28,6 @@ total = a.concat(b)
 return total
 end
 
-def using_insert(array,string)
-array.push(string)
+def using_insert(array,element)
+array.insert(5,element)
 end
