@@ -26,5 +26,4 @@ end
 def using_concat(a,b)
 total = a.concat(b)
 return total
-
 end
