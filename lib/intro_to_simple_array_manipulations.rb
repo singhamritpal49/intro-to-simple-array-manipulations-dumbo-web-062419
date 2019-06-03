@@ -24,5 +24,7 @@ array.shift(2)
 end
 
 def using_concat(a,b)
-a.concat(b)
+total = a.concat(b)
+return total
+
 end
